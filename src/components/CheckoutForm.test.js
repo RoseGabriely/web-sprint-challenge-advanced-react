@@ -7,7 +7,7 @@ import App from "../App";
 // Write up the two tests here and make sure they are testing what the title shows
 
 test("renders without errors", () => {
-  render(<App />);
+  render(<CheckoutForm />);
 });
 
 test("shows success message on submit with form details", () => {});
